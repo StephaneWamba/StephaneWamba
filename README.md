@@ -91,15 +91,6 @@ Currently open to full-time roles and freelance engagements.
 
 ---
 
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=StephaneWamba&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/StephaneWamba)
-&nbsp;
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneWamba&layout=compact&hide_border=true&langs_count=6)](https://github.com/StephaneWamba)
-
-</div>
-
----
 
 <div align="center">
 
