@@ -85,6 +85,7 @@ Currently open to full-time roles and freelance engagements.
 ## Education
 
 **Master of Engineering — Data Engineering & Artificial Intelligence**
+[EFREI — Grande École du Numérique](https://www.efrei.fr/formation/filiere-data-science/)
 
 ---
 
