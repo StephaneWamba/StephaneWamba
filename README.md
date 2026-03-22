@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Stéphane+Wamba;Full-Stack+AI+Engineer" alt="Stéphane Wamba" />
+# Stéphane Wamba
+
+### Full-Stack AI Engineer
 
 [![Website](https://img.shields.io/badge/stephanewamba.com-000000?style=flat&logo=safari&logoColor=white)](https://stephanewamba.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephane-wamba/)
