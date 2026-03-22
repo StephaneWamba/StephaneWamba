@@ -10,7 +10,7 @@
 
 ---
 
-I build production-grade platforms end to end, from database schema to deployed UI. Most of my work sits at the intersection of distributed systems and applied AI: real-time pipelines, multi-agent workflows, and customer-facing products across real estate, healthtech, edtech, and fintech.
+Full-stack AI engineer with an MEng in Data Engineering & Artificial Intelligence. I build production-grade platforms end to end, from database schema to deployed UI. Most of my work sits at the intersection of distributed systems and applied AI: real-time pipelines, multi-agent workflows, and customer-facing products across real estate, healthtech, edtech, and fintech.
 
 Currently open to full-time roles and freelance engagements.
 
@@ -79,6 +79,12 @@ Currently open to full-time roles and freelance engagements.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat&logo=redis&logoColor=white)
+
+---
+
+## Education
+
+**Master of Engineering — Data Engineering & Artificial Intelligence**
 
 ---
 
