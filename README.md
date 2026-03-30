@@ -23,6 +23,7 @@ Currently open to full-time roles and freelance engagements.
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | [**Parcela**](https://github.com/StephaneWamba/parcela) | Real estate listing, offer negotiation and mortgage pipeline | Next.js · Fastify · PostgreSQL · Elasticsearch · Redis | [↗](https://parcela-zeta.vercel.app) |
+| [**Vitrine**](https://github.com/StephaneWamba/vitrine) | Multi-tenant storefront builder — product catalog, custom domains, and analytics dashboard | Next.js · Fastify · PostgreSQL · Redis | [↗](http://vitrine.stephanewamba.com/) |
 | [**Stackr**](https://github.com/StephaneWamba/stackr) | AI-powered B2C & B2B wholesale multi-vendor marketplace | Next.js · Fastify · PostgreSQL | [↗](https://stackr-nine.vercel.app) |
 | [**Medflow**](https://github.com/StephaneWamba/medflow) | Telemedicine — video consultations, digital prescriptions, encrypted health records | Next.js · Fastify · LiveKit · PostgreSQL | [↗](https://medflow-five.vercel.app) |
 | [**Lumio**](https://github.com/StephaneWamba/lumio) | LMS with video transcoding, adaptive quizzes, Stripe Connect, certificate generation | Django · Celery · AWS ECS | — |
@@ -34,7 +35,8 @@ Currently open to full-time roles and freelance engagements.
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [**ContractIQ**](https://github.com/StephaneWamba/ContractIQ) | Extract clauses, flag risks, and surface insights from legal documents | Python · FastAPI · LLM | [↗](https://iq-contract.vercel.app) |
+| [**ContractIQ v2**](https://github.com/StephaneWamba/ContractIQ) | Extract clauses, flag risks, and surface insights from legal documents | Python · FastAPI · LLM | [↗](http://contractiq.stephanewamba.com/) |
+| [**Prisme**](https://github.com/StephaneWamba/prisme) | Privacy-first product analytics — event tracking, funnel analysis, and retention dashboards | Next.js · FastAPI · ClickHouse · PostgreSQL | [↗](http://prisme.stephanewamba.com/) |
 | [**InterviewLab**](https://github.com/StephaneWamba/InterviewLab) | Technical interview prep with voice AI, live code execution, and resume-tailored questions | LangGraph · LiveKit · FastAPI · Next.js | [↗](https://lab-interview.vercel.app) |
 | [**CallEats**](https://github.com/StephaneWamba/CallEats) | Voice AI that handles restaurant phone orders using semantic search | Python · Vapi.ai · FastAPI | [↗](https://calleats.vercel.app) |
 | [**Finlens**](https://github.com/StephaneWamba/finlens) | Multi-agent RAG for financial documents and SEC filings with GPU-accelerated processing | Python · LangChain · Next.js | [↗](https://finlens-kappa.vercel.app) |
