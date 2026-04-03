@@ -1,6 +1,6 @@
 <div align="center">
 
-# Stéphane Wamba
+# Stephane Wamba
 
 ### Full-Stack AI Engineer
 
@@ -22,12 +22,12 @@ Currently open to full-time roles and freelance engagements.
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [**Parcela**](https://github.com/StephaneWamba/parcela) | Real estate listing, offer negotiation and mortgage pipeline | Next.js · Fastify · PostgreSQL · Elasticsearch · Redis | [↗](https://parcela-zeta.vercel.app) |
-| [**Vitrine**](https://github.com/StephaneWamba/vitrine) | Multi-tenant storefront builder — product catalog, custom domains, and analytics dashboard | Next.js · Fastify · PostgreSQL · Redis | [↗](http://vitrine.stephanewamba.com/) |
-| [**Stackr**](https://github.com/StephaneWamba/stackr) | AI-powered B2C & B2B wholesale multi-vendor marketplace | Next.js · Fastify · PostgreSQL | [↗](https://stackr-nine.vercel.app) |
-| [**Medflow**](https://github.com/StephaneWamba/medflow) | Telemedicine — video consultations, digital prescriptions, encrypted health records | Next.js · Fastify · LiveKit · PostgreSQL | [↗](https://medflow-five.vercel.app) |
-| [**Lumio**](https://github.com/StephaneWamba/lumio) | LMS with video transcoding, adaptive quizzes, Stripe Connect, certificate generation | Django · Celery · AWS ECS | — |
-| [**Syntera**](https://github.com/StephaneWamba/Syntera) | Multi-tenant conversational AI SaaS for customer service automation | Next.js · TypeScript · Microservices | [↗](https://syntera-tau.vercel.app) |
+| [**Parcela**](https://github.com/StephaneWamba/parcela) | Real estate listing, offer negotiation and mortgage pipeline | Next.js - Fastify - PostgreSQL - Elasticsearch - Redis | [->](https://parcela-zeta.vercel.app) |
+| [**Vitrine**](https://github.com/StephaneWamba/vitrine) | Multi-tenant storefront builder -- product catalog, custom domains, and analytics dashboard | Next.js - Fastify - PostgreSQL - Redis | [->](http://vitrine.stephanewamba.com/) |
+| [**Stackr**](https://github.com/StephaneWamba/stackr) | AI-powered B2C & B2B wholesale multi-vendor marketplace | Next.js - Fastify - PostgreSQL | [->](https://stackr-nine.vercel.app) |
+| [**Medflow**](https://github.com/StephaneWamba/medflow) | Telemedicine -- video consultations, digital prescriptions, encrypted health records | Next.js - Fastify - LiveKit - PostgreSQL | [->](https://medflow-five.vercel.app) |
+| [**Lumio**](https://github.com/StephaneWamba/lumio) | LMS with video transcoding, adaptive quizzes, Stripe Connect, certificate generation | Django - Celery - AWS ECS | -- |
+| [**Syntera**](https://github.com/StephaneWamba/Syntera) | Multi-tenant conversational AI SaaS for customer service automation | Next.js - TypeScript - Microservices | [->](https://syntera-tau.vercel.app) |
 
 ---
 
@@ -35,15 +35,16 @@ Currently open to full-time roles and freelance engagements.
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [**ContractIQ v2**](https://github.com/StephaneWamba/ContractIQ) | Extract clauses, flag risks, and surface insights from legal documents | Python · FastAPI · LLM | [↗](http://contractiq.stephanewamba.com/) |
-| [**Prisme**](https://github.com/StephaneWamba/prisme) | Privacy-first product analytics — event tracking, funnel analysis, and retention dashboards | Next.js · FastAPI · ClickHouse · PostgreSQL | [↗](http://prisme.stephanewamba.com/) |
-| [**InterviewLab**](https://github.com/StephaneWamba/InterviewLab) | Technical interview prep with voice AI, live code execution, and resume-tailored questions | LangGraph · LiveKit · FastAPI · Next.js | [↗](https://lab-interview.vercel.app) |
-| [**CallEats**](https://github.com/StephaneWamba/CallEats) | Voice AI that handles restaurant phone orders using semantic search | Python · Vapi.ai · FastAPI | [↗](https://calleats.vercel.app) |
-| [**Finlens**](https://github.com/StephaneWamba/finlens) | Multi-agent RAG for financial documents and SEC filings with GPU-accelerated processing | Python · LangChain · Next.js | [↗](https://finlens-kappa.vercel.app) |
-| [**QualifyBot**](https://github.com/StephaneWamba/QualifyBot) | Automates B2B lead qualification via phone calls with Salesforce integration | Python · Vapi.ai | — |
-| [**Bridge AI**](https://github.com/StephaneWamba/bridge-ai) | AI copilot connecting CRM, email, calendar, and team chat for sales automation | Python · FastAPI | — |
-| [**TradeMind**](https://github.com/StephaneWamba/TradeMind) | Autonomous crypto trading platform with AI-driven risk management | Python | — |
-| [**InvoiceFlow**](https://github.com/StephaneWamba/InvoiceFlow) | PO, invoice, and delivery note matching and reconciliation | Python | — |
+| [**InterviewAI**](https://github.com/StephaneWamba/interviewai) | Voice AI interview simulator -- Sophie asks questions, watches your code live, and scores your performance | Next.js - FastAPI - ElevenLabs - Monaco - E2B | [->](https://interviewai.stephanewamba.com) |
+| [**ContractIQ v2**](https://github.com/StephaneWamba/ContractIQ) | Extract clauses, flag risks, and surface insights from legal documents | Python - FastAPI - LLM | [->](http://contractiq.stephanewamba.com/) |
+| [**Prisme**](https://github.com/StephaneWamba/prisme) | Privacy-first product analytics -- event tracking, funnel analysis, and retention dashboards | Next.js - FastAPI - ClickHouse - PostgreSQL | [->](http://prisme.stephanewamba.com/) |
+| [**InterviewLab**](https://github.com/StephaneWamba/InterviewLab) | Technical interview prep with voice AI, live code execution, and resume-tailored questions | LangGraph - LiveKit - FastAPI - Next.js | [->](https://lab-interview.vercel.app) |
+| [**CallEats**](https://github.com/StephaneWamba/CallEats) | Voice AI that handles restaurant phone orders using semantic search | Python - Vapi.ai - FastAPI | [->](https://calleats.vercel.app) |
+| [**Finlens**](https://github.com/StephaneWamba/finlens) | Multi-agent RAG for financial documents and SEC filings with GPU-accelerated processing | Python - LangChain - Next.js | [->](https://finlens-kappa.vercel.app) |
+| [**QualifyBot**](https://github.com/StephaneWamba/QualifyBot) | Automates B2B lead qualification via phone calls with Salesforce integration | Python - Vapi.ai | -- |
+| [**Bridge AI**](https://github.com/StephaneWamba/bridge-ai) | AI copilot connecting CRM, email, calendar, and team chat for sales automation | Python - FastAPI | -- |
+| [**TradeMind**](https://github.com/StephaneWamba/TradeMind) | Autonomous crypto trading platform with AI-driven risk management | Python | -- |
+| [**InvoiceFlow**](https://github.com/StephaneWamba/InvoiceFlow) | PO, invoice, and delivery note matching and reconciliation | Python | -- |
 
 ---
 
@@ -88,14 +89,13 @@ Currently open to full-time roles and freelance engagements.
 
 ## Education
 
-**Master of Engineering — Data Engineering & Artificial Intelligence**
-[EFREI — Grande École du Numérique](https://www.efrei.fr/formation/filiere-data-science/)
+**Master of Engineering -- Data Engineering & Artificial Intelligence**
+[EFREI -- Grande Ecole du Numerique](https://www.efrei.fr/formation/filiere-data-science/)
 
 ---
 
-
 <div align="center">
 
-[stephanewamba.com](https://stephanewamba.com) · [LinkedIn](https://www.linkedin.com/in/stephane-wamba/) · Available for freelance and full-time
+[stephanewamba.com](https://stephanewamba.com) - [LinkedIn](https://www.linkedin.com/in/stephane-wamba/) - Available for freelance and full-time
 
 </div>
